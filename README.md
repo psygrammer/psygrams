@@ -16,7 +16,7 @@
 |   | 행사 & [싸이그래머](https://www.facebook.com/groups/psygrammer/) 소개  | 김무성  |
 |   | [코알못을 위한 실험짜기 101 (PsychoPy)](#코알못을-위한-실험짜기-101-psychopy)  | 이윤경  |   
 |   | [DMLab-30 : 딥마인드의 AI 길들이기](#dmlab-30--딥마인드의-ai-길들이기)   | 김무성  |    
-|   | [워드투벡을 활용한 야매추천시스템<br>(논문 키워드로 관련 연구자추천) feat. 슬랙](#워드투벡을-활용한-야매추천시스템-논문-키워드로-관련-연구자추천-feat-슬랙)   | 김성근 |   
+|   | [Word2Vec을 활용한 야매추천시스템<br>(논문 키워드로 관련 연구자추천) feat. 슬랙](#워드투벡을-활용한-야매추천시스템-논문-키워드로-관련-연구자추천-feat-슬랙)   | 김성근 |   
 |   | [Deep learning framework 선택을 위한 <br>model benchmark test 방법](#deep-learning-framework-선택을-위한-model-benchmark-test-방법)   | 김형준 | 
 
 
@@ -29,7 +29,7 @@
 #### DMLab-30 : 딥마인드의 AI 길들이기
 
 
-#### 워드투벡을 활용한 야매추천시스템 (논문 키워드로 관련 연구자추천) feat. 슬랙
+#### Word2Vec을 활용한 야매추천시스템 (논문 키워드로 관련 연구자추천) feat. 슬랙
 
 
 #### Deep learning framework 선택을 위한 model benchmark test 방법
