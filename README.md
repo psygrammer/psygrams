@@ -1,10 +1,14 @@
 ## Psygrams 2018
 
+심리학 컨퍼런스
+
+* 페이스북 이벤트 - https://www.facebook.com/events/590394521317191/
+* 싸이그래머 페이스북 그룹 - https://www.facebook.com/groups/psygrammer/ 
 ```
 * 날짜 : 2018.6/30
-* 시간 : 
-* 장소 : 
-* 페이스북 이벤트 : https://www.facebook.com/events/590394521317191/
+* 시간 : 2시 - 6시
+* 장소 : 강남
+* 주최 : 싸이그래머 
 ```
 
 ### 스케쥴
