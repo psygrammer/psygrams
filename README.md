@@ -11,7 +11,7 @@
 
 ### 스케쥴
 
- 제목  |  발표자  |
+| 제목  |  발표자  |
 |---|---|
 | 행사 & [싸이그래머](https://www.facebook.com/groups/psygrammer/) 소개  | 김무성  |
 | 코알못을 위한 실험짜기 101 (PsychoPy)  |   |   
