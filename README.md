@@ -9,12 +9,21 @@
 주최 : 싸이그래머 
 ```
 
+-------
+
 ### 스케쥴
 
-| 제목  |  발표자  |
-|---|---|
-| 행사 & [싸이그래머](https://www.facebook.com/groups/psygrammer/) 소개  | 김무성  |
-| 코알못을 위한 실험짜기 101 (PsychoPy)  |   |   
-| DMLab-30 : 딥마인드의 AI 길들이기   |   |    
-| 워드투벡을 활용한 야매추천시스템' (논문 키워드로 관련 연구자추천) feat. 슬랙   |    |   
-| deep learning framework 선택을 위한 model benchmark test 방법   |      | 
+|시간| 제목  |  발표자  |
+|---|---|---|
+|   | 행사 & [싸이그래머](https://www.facebook.com/groups/psygrammer/) 소개  | 김무성  |
+|   | [코알못을 위한 실험짜기 101 (PsychoPy)](#head1234)  |   |   
+|   | DMLab-30 : 딥마인드의 AI 길들이기   |   |    
+|   | 워드투벡을 활용한 야매추천시스템' (논문 키워드로 관련 연구자추천) feat. 슬랙   |    |   
+|   | deep learning framework 선택을 위한 model benchmark test 방법   |      | 
+
+
+-------
+
+### 내용
+
+#### <a name="head1234"></a>코알못을 위한 실험짜기 101 (PsychoPy)
