@@ -19,7 +19,7 @@
 |   | [DMLab-30 : 딥마인드의 AI 길들이기](#dmlab-30--딥마인드의-ai-길들이기)   | 김무성  |    
 |   | [Word2Vec을 활용한 야매추천시스템<br>(논문 키워드로 관련 연구자추천) feat. 슬랙](#word2vec을-활용한-야매추천시스템-논문-키워드로-관련-연구자추천-feat-슬랙)   | 김성근 |   
 |   | [Deep learning framework 선택을 위한 <br>model benchmark test 방법](#deep-learning-framework-선택을-위한-model-benchmark-test-방법)   | 김형준 | 
-|   | 비컴공 데이터분석가 커리어 여정  | 조선주  |
+|   | [비컴공 데이터분석가 커리어 여정](#비컴공-데이터분석가-커리어-여정)  | 조선주  |
 
 
 
