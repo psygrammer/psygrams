@@ -1,6 +1,6 @@
 ## Psygrams 2018
 
-심리학 컨퍼런스 ([페이스북 이벤트 링크](https://www.facebook.com/events/590394521317191/))
+정통 .. 심리학 컨퍼런스 ([페이스북 이벤트 링크](https://www.facebook.com/events/590394521317191/))
 
 ```
 날짜 : 2018.6/30 (토)
