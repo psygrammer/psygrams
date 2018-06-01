@@ -19,8 +19,8 @@
 |   | [DMLab-30 : 딥마인드의 AI 길들이기](#dmlab-30--딥마인드의-ai-길들이기)   | 김무성  |    
 |   | [Word2Vec을 활용한 야매추천시스템<br>(논문 키워드로 관련 연구자추천) feat. 슬랙](#word2vec을-활용한-야매추천시스템-논문-키워드로-관련-연구자추천-feat-슬랙)   | 김성근 |   
 |   | [Deep learning framework 선택을 위한 <br>model benchmark test 방법](#deep-learning-framework-선택을-위한-model-benchmark-test-방법)   | 김형준 | 
-|   | (큰 주제만 정해짐) 인공지능과 UX(#인공지능과-ux) | 신유민  |
-|   | (큰 주제만 정해짐) 정신의학과 뇌과학(#정신의학과-뇌과학)  | 이태영  |
+|   | (큰 주제만 정해짐) [인공지능과 UX](#인공지능과-ux) | 신유민  |
+|   | (큰 주제만 정해짐) [정신의학과 뇌과학](#정신의학과-뇌과학)  | 이태영  |
 |   | [Research on Learning & Memory with Neuromodulation in CLMN lab](#research-on-learning--memory-with-neuromodulation-in-clmn-lab)  | 김성신  |
 |   | [비컴공 데이터분석가 커리어 여정](#비컴공-데이터분석가-커리어-여정)  | 조선주  |
 |   | [인지심리학도의 이곳저곳 직장에서 살아가기 (데이터 분석가 직무 아닌 사람의 소소한 데이터 사용기 포함)](#인지심리학도의-이곳저곳-직장에서-살아가기-데이터-분석가-직무-아닌-사람의-소소한-데이터-사용기-포함)  | 최준혁  |
