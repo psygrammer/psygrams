@@ -15,7 +15,7 @@
 |시간| 제목  |  발표자  |
 |---|---|---|
 |   | 행사 & [싸이그래머](https://www.facebook.com/groups/psygrammer/) 소개  | 김무성  |
-|| 세션 A ||
+|| <center>세션 A</center> ||
 |   | [코알못을 위한 실험짜기 101 (PsychoPy)](#코알못을-위한-실험짜기-101-psychopy)  | 이윤경  |   
 |   | [DMLab-30 : 딥마인드의 AI 길들이기](#dmlab-30--딥마인드의-ai-길들이기)   | 김무성  |    
 || 세션 B ||
