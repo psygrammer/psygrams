@@ -24,8 +24,8 @@
 |   | <a href="https://psygrammer.github.io/psygrams/#정서심리학과-인지계산모델" onclick="ga('send', 'event', 'InLink', '정서심리학과 인지계산모델');">정서심리학과 인지계산모델</a> | 박희영  |
 |   | (큰 주제만 정해짐) <a href="https://psygrammer.github.io/psygrams/#인공지능과-ux" onclick="ga('send', 'event', 'InLink', '인공지능과 UX');">인공지능과 UX</a> | 신유민  |
 || <center>세션 C</center> ||
-|   | <a href="https://psygrammer.github.io/psygrams/#word2vec을-활용한-야매추천시스템" onclick="ga('send', 'event', 'InLink', 'Word2Vec을 활용한 야매추천시스템');">Word2Vec을 활용한 야매추천시스템<br>(논문 키워드로 관련 연구자추천) feat. 슬랙</a>   | 김성근 |   
-|   | <a href="https://psygrammer.github.io/psygrams/#deep-learning-framework-선택을-위한-model-benchmark-test-방법" onclick="ga('send', 'event', 'InLink', 'Deep learning framework 선택을 위한 model benchmark test 방법');">Deep learning framework 선택을 위한 <br>model benchmark test 방법</a> | 김형준 | 
+|   | <a href="https://psygrammer.github.io/psygrams/#word2vec을-활용한-야매추천시스템" onclick="ga('send', 'event', 'InLink', 'Word2Vec을 활용한 야매추천시스템');">Word2Vec을 활용한 야매추천시스템 (논문 키워드로 관련 연구자추천) feat. 슬랙</a>   | 김성근 |   
+|   | <a href="https://psygrammer.github.io/psygrams/#deep-learning-framework-선택을-위한-model-benchmark-test-방법" onclick="ga('send', 'event', 'InLink', 'Deep learning framework 선택을 위한 model benchmark test 방법');">Deep learning framework 선택을 위한 model benchmark test 방법</a> | 김형준 | 
 || <center>세션 D</center> ||
 |   | (큰 주제만 정해짐) <a href="https://psygrammer.github.io/psygrams/#정신의학과-뇌과학" onclick="ga('send', 'event', 'InLink', '정신의학과 뇌과학');">정신의학과 뇌과학</a> | 이태영  |
 |   | <a href="https://psygrammer.github.io/psygrams/#research-on-learning--memory-with-neuromodulation-in-clmn-lab" onclick="ga('send', 'event', 'InLink', 'Research on Learning & Memory with Neuromodulation in CLMN lab');">Research on Learning & Memory with Neuromodulation in CLMN lab</a> | 김성신  |
