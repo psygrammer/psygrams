@@ -16,7 +16,7 @@
 |---|---|---|
 | 1:00 - 1:10  | 행사 & [싸이그래머](https://www.facebook.com/groups/psygrammer/) 소개  | 김무성  |
 || <center>세션 A</center> ||
-| 1:10 - 1:40 | [PsychoPy 101 : 파이썬으로 구현하는 Cognitive Tasks](#코알못을-위한-실험짜기-101-psychopy)  | 이윤경  |   
+| 1:10 - 1:40 | [PsychoPy 101 : 파이썬으로 구현하는 Cognitive Tasks](#psychopy-101--파이썬으로-구현하는-cognitive-tasks)  | 이윤경  |   
 | 1:40 - 2:00 | [DMLab-30 : 딥마인드의 AI 길들이기](#dmlab-30--딥마인드의-ai-길들이기)   | 김무성  |    
 || <center>세션 B</center> ||
 |   | [대화가 필요해: 보행자와 자율주행차의 도로공유 상황에서의 다양한 의사소통 연구](#대화가-필요해-보행자와-자율주행차의-도로공유-상황에서의-다양한-의사소통-연구) | 이윤경  |
