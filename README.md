@@ -26,7 +26,7 @@
 || <center>세션 B</center> ||
 |   | <a href="https://psygrammer.github.io/psygrams/#대화가-필요해" onclick="ga('send', 'event', 'InLink', 'Title Click', '대화가 필요해');">대화가 필요해: 보행자와 자율주행차의 도로공유 상황에서의 다양한 의사소통 연구</a> | Y.K.Lee  |
 |   | <a href="https://psygrammer.github.io/psygrams/#정서심리학과-인지계산모델" onclick="ga('send', 'event', 'InLink', 'Title Click', '정서심리학과 인지계산모델');">정서심리학과 인지계산모델</a> | 박희영  |
-|   | (큰 주제만 정해짐) <a href="https://psygrammer.github.io/psygrams/#심리학도-ux리서처의-관점으로-머신러닝-바라보기" onclick="ga('send', 'event', 'InLink', 'Title Click', '심리학도 UX리서처의 관점으로 머신러닝 바라보기');">심리학도 UX리서처의 관점으로 머신러닝 바라보기</a> | 신유민  |
+|   | <a href="https://psygrammer.github.io/psygrams/#심리학도-ux리서처의-관점으로-머신러닝-바라보기" onclick="ga('send', 'event', 'InLink', 'Title Click', '심리학도 UX리서처의 관점으로 머신러닝 바라보기');">심리학도 UX리서처의 관점으로 머신러닝 바라보기</a> | 신유민  |
 || <center>세션 C</center> ||
 |   | <a href="https://psygrammer.github.io/psygrams/#word2vec을-활용한-야매추천시스템" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Word2Vec을 활용한 야매추천시스템');">Word2Vec을 활용한 야매추천시스템 (논문 키워드로 관련 연구자추천) feat. 슬랙</a>   | 김성근 |   
 |   | <a href="https://psygrammer.github.io/psygrams/#deep-learning-framework-선택을-위한-model-benchmark-test-방법" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Deep learning framework 선택을 위한 model benchmark test 방법');">Deep learning framework 선택을 위한 model benchmark test 방법</a> | 김형준 | 
