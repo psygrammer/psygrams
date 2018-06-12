@@ -31,7 +31,7 @@
 |   | <a href="https://psygrammer.github.io/psygrams/#word2vec을-활용한-야매추천시스템" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Word2Vec을 활용한 야매추천시스템');">Word2Vec을 활용한 야매추천시스템 (논문 키워드로 관련 연구자추천) feat. 슬랙</a>   | 김성근 |   
 |   | <a href="https://psygrammer.github.io/psygrams/#deep-learning-framework-선택을-위한-model-benchmark-test-방법" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Deep learning framework 선택을 위한 model benchmark test 방법');">Deep learning framework 선택을 위한 model benchmark test 방법</a> | 김형준 | 
 || <center>세션 D</center> ||
-|   | (큰 주제만 정해짐) <a href="https://psygrammer.github.io/psygrams/#정신의학과-뇌과학" onclick="ga('send', 'event', 'InLink', 'Title Click', '기억, 의사결정, 그리고 인지신경심리학');">기억, 의사결정, 그리고 인지신경심리학</a> | 유정선  |
+|   | (큰 주제만 정해짐) <a href="https://psygrammer.github.io/psygrams/#기억-의사결정-그리고-인지신경심리학" onclick="ga('send', 'event', 'InLink', 'Title Click', '기억, 의사결정, 그리고 인지신경심리학');">기억, 의사결정, 그리고 인지신경심리학</a> | 유정선  |
 |   | (큰 주제만 정해짐) <a href="https://psygrammer.github.io/psygrams/#정신의학과-뇌과학" onclick="ga('send', 'event', 'InLink', 'Title Click', '정신의학과 뇌과학');">정신의학과 뇌과학</a> | 이태영  |
 |   | <a href="https://psygrammer.github.io/psygrams/#research-on-learning--memory-with-neuromodulation-in-clmn-lab" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Research on Learning & Memory with Neuromodulation in CLMN lab');">Research on Learning & Memory with Neuromodulation in CLMN lab</a> | 김성신  |
 || <center>세션 E</center> ||
