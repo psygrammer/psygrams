@@ -29,8 +29,9 @@
 |---|---|---|
 | 1:00 - 1:10  | 행사 & <a href="https://www.facebook.com/groups/psygrammer" onclick="ga('send', 'event', 'OutLink', 'Facebook Click', 'Psygrammer Facebook');">싸이그래머</a> 소개  | 김무성  |
 || <center>세션 A</center> ||
-| 1:10 - 1:40 | <a href="https://psygrammer.github.io/psygrams/#psychopy-101--파이썬으로-구현하는-cognitive-tasks" onclick="ga('send', 'event', 'InLink', 'Title Click', 'PsychoPy 101 : 파이썬으로 구현하는 Cognitive Tasks');">PsychoPy 101 : 파이썬으로 구현하는 Cognitive Tasks</a> | Y.K.Lee   |   
-| 1:40 - 2:00 | <a href="https://psygrammer.github.io/psygrams/#dmlab-30--딥마인드의-ai-길들이기" onclick="ga('send', 'event', 'InLink', 'Title Click', 'DMLab-30 : 딥마인드의 AI 길들이기');">DMLab-30 : 딥마인드의 AI 길들이기</a> | 김무성  |    
+|  | <a href="https://psygrammer.github.io/psygrams/#psychopy-101--파이썬으로-구현하는-cognitive-tasks" onclick="ga('send', 'event', 'InLink', 'Title Click', 'PsychoPy 101 : 파이썬으로 구현하는 Cognitive Tasks');">PsychoPy 101 : 파이썬으로 구현하는 Cognitive Tasks</a> | Y.K.Lee   |
+|  | <a href="https://psygrammer.github.io/psygrams/#자연어처리-시작하기" onclick="ga('send', 'event', 'InLink', 'Title Click', '자연어처리 시작하기');">자연어처리 시작하기</a> | 박조은   |
+|  | <a href="https://psygrammer.github.io/psygrams/#dmlab-30--딥마인드의-ai-길들이기" onclick="ga('send', 'event', 'InLink', 'Title Click', 'DMLab-30 : 딥마인드의 AI 길들이기');">DMLab-30 : 딥마인드의 AI 길들이기</a> | 김무성  |    
 || <center>세션 B</center> ||
 |   | <a href="https://psygrammer.github.io/psygrams/#대화가-필요해" onclick="ga('send', 'event', 'InLink', 'Title Click', '대화가 필요해');">대화가 필요해: 보행자와 자율주행차의 도로공유 상황에서의 다양한 의사소통 연구</a> | Y.K.Lee  |
 |   | <a href="https://psygrammer.github.io/psygrams/#정서심리학과-인지계산모델" onclick="ga('send', 'event', 'InLink', 'Title Click', '정서심리학과 인지계산모델');">정서심리학과 인지계산모델</a> | 박희영  |
@@ -58,6 +59,13 @@
 * 발표자 : Y.K.Lee 
 * 자료 :
 * 요약 :
+
+
+#### 자연어처리 시작하기
+* 발표자 : 박조은
+* 자료 :
+* 요약 :
+
 
 #### DMLab-30 : 딥마인드의 AI 길들이기
 * 발표자 : 김무성
