@@ -1,6 +1,6 @@
 # Psygrams 2018
 
-정통 .. 심리학 컨퍼런스 
+정통 .. 심리학 컨퍼런스<br> 
 참가 신청 -> 
 <a href="https://www.facebook.com/events/590394521317191/" onclick="ga('send', 'event', 'OutLink', 'Facebook Click', 'Facebook Event - Psygrams 2018');">페이스북 이벤트 링크</a>의 이벤트에서 '참석'을 눌러주세요.('관심 있음'은 참석명단에 포함되지 않습니다)
 
