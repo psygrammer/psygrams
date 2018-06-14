@@ -29,23 +29,27 @@
 |---|---|---|
 | 1:00 - 1:10  | 행사 & <a href="https://www.facebook.com/groups/psygrammer" onclick="ga('send', 'event', 'OutLink', 'Facebook Click', 'Psygrammer Facebook');">싸이그래머</a> 소개  | 김무성  |
 || <center>세션 A</center> ||
-|  | <a href="https://psygrammer.github.io/psygrams/#psychopy-101--파이썬으로-구현하는-cognitive-tasks" onclick="ga('send', 'event', 'InLink', 'Title Click', 'PsychoPy 101 : 파이썬으로 구현하는 Cognitive Tasks');">PsychoPy 101 : 파이썬으로 구현하는 Cognitive Tasks</a> | Y.K.Lee   |
 |  | <a href="https://psygrammer.github.io/psygrams/#자연어처리-시작하기" onclick="ga('send', 'event', 'InLink', 'Title Click', '자연어처리 시작하기');">자연어처리 시작하기</a> | 박조은   |
+|  | <a href="https://psygrammer.github.io/psygrams/#psychopy-101--파이썬으로-구현하는-cognitive-tasks" onclick="ga('send', 'event', 'InLink', 'Title Click', 'PsychoPy 101 : 파이썬으로 구현하는 Cognitive Tasks');">PsychoPy 101 : 파이썬으로 구현하는 Cognitive Tasks</a> | Y.K.Lee   |
 |  | <a href="https://psygrammer.github.io/psygrams/#dmlab-30--딥마인드의-ai-길들이기" onclick="ga('send', 'event', 'InLink', 'Title Click', 'DMLab-30 : 딥마인드의 AI 길들이기');">DMLab-30 : 딥마인드의 AI 길들이기</a> | 김무성  |    
 || <center>세션 B</center> ||
-|   | <a href="https://psygrammer.github.io/psygrams/#대화가-필요해" onclick="ga('send', 'event', 'InLink', 'Title Click', '대화가 필요해');">대화가 필요해: 보행자와 자율주행차의 도로공유 상황에서의 다양한 의사소통 연구</a> | Y.K.Lee  |
-|   | <a href="https://psygrammer.github.io/psygrams/#정서심리학과-인지계산모델" onclick="ga('send', 'event', 'InLink', 'Title Click', '정서심리학과 인지계산모델');">정서심리학과 인지계산모델</a> | 박희영  |
+|   | <a href="https://psygrammer.github.io/psygrams/#엎치락뒤치락-정서심리" onclick="ga('send', 'event', 'InLink', 'Title Click', '엎치락뒤치락 정서심리');">엎치락뒤치락 정서심리</a> | 박희영  |
+|   | (큰 주제만 정해짐) <a href="https://psygrammer.github.io/psygrams/#기억-의사결정-그리고-인지신경심리학" onclick="ga('send', 'event', 'InLink', 'Title Click', '기억, 의사결정, 그리고 인지신경심리학');">기억, 의사결정, 그리고 인지신경심리학</a> | 유정선  |
+|   | <a href="https://psygrammer.github.io/psygrams/#deep-learning-framework-선택을-위한-model-benchmark-test-방법" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Deep learning framework 선택을 위한 model benchmark test 방법');">Deep learning framework 선택을 위한 model benchmark test 방법</a> | 김형준 | 
 |   | <a href="https://psygrammer.github.io/psygrams/#심리학도-ux리서처의-관점으로-머신러닝-바라보기" onclick="ga('send', 'event', 'InLink', 'Title Click', '심리학도 UX리서처의 관점으로 머신러닝 바라보기');">심리학도 UX리서처의 관점으로 머신러닝 바라보기</a> | 신유민  |
 || <center>세션 C</center> ||
+|   | <a href="https://psygrammer.github.io/psygrams/#선형-혼합효과-모형" onclick="ga('send', 'event', 'InLink', 'Title Click', '선형 혼합효과 모형');">선형 혼합효과 모형</a> | 박희영  |
 |   | <a href="https://psygrammer.github.io/psygrams/#word2vec을-활용한-야매추천시스템" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Word2Vec을 활용한 야매추천시스템');">Word2Vec을 활용한 야매추천시스템 (논문 키워드로 관련 연구자추천) feat. 슬랙</a>   | 김성근 |   
-|   | <a href="https://psygrammer.github.io/psygrams/#deep-learning-framework-선택을-위한-model-benchmark-test-방법" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Deep learning framework 선택을 위한 model benchmark test 방법');">Deep learning framework 선택을 위한 model benchmark test 방법</a> | 김형준 | 
+|   | <a href="https://psygrammer.github.io/psygrams/#대학원-Q--A--5분---네트워킹--Coffee-Break" onclick="ga('send', 'event', 'InLink', 'Title Click', '대학원 Q&A (5분), 네트워킹 (Coffee Break)');">대학원 Q&A (5분), 네트워킹 (Coffee Break)</a> | 박희영  |
 || <center>세션 D</center> ||
-|   | (큰 주제만 정해짐) <a href="https://psygrammer.github.io/psygrams/#기억-의사결정-그리고-인지신경심리학" onclick="ga('send', 'event', 'InLink', 'Title Click', '기억, 의사결정, 그리고 인지신경심리학');">기억, 의사결정, 그리고 인지신경심리학</a> | 유정선  |
 |   | (큰 주제만 정해짐) <a href="https://psygrammer.github.io/psygrams/#정신의학과-뇌과학" onclick="ga('send', 'event', 'InLink', 'Title Click', '정신의학과 뇌과학');">정신의학과 뇌과학</a> | 이태영  |
 |   | <a href="https://psygrammer.github.io/psygrams/#research-on-learning--memory-with-neuromodulation-in-clmn-lab" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Research on Learning & Memory with Neuromodulation in CLMN lab');">Research on Learning & Memory with Neuromodulation in CLMN lab</a> | 김성신  |
+|   | <a href="https://psygrammer.github.io/psygrams/#뇌과학과-야구--그리고-통계" onclick="ga('send', 'event', 'InLink', 'Title Click', '뇌과학과 야구, 그리고 통계 ');">뇌과학과 야구, 그리고 통계 </a> | 송민구  |
 || <center>세션 E</center> ||
 |   | <a href="https://psygrammer.github.io/psygrams/#비컴공-데이터분석가-커리어-여정" onclick="ga('send', 'event', 'InLink', 'Title Click', '비컴공 데이터분석가 커리어 여정');">비컴공 데이터분석가 커리어 여정</a> | 조선주  |
 |   | <a href="https://psygrammer.github.io/psygrams/#인지심리학도의-이곳저곳-직장에서-살아가기" onclick="ga('send', 'event', 'InLink', 'Title Click', '인지심리학도의 이곳저곳 직장에서 살아가기');">인지심리학도의 이곳저곳 직장에서 살아가기 (데이터 분석가 직무 아닌 사람의 소소한 데이터 사용기 포함)</a> | 최준혁  |
+|   | <a href="https://psygrammer.github.io/psygrams/#심리상담과-IT" onclick="ga('send', 'event', 'InLink', 'Title Click', '심리상담과 IT');">심리상담과 IT</a> | 김태욱  |
+
 
 
 
@@ -76,9 +80,8 @@
 
 ### 세션 B
 
-#### 대화가 필요해
-* 부제 : 보행자와 자율주행차의 도로공유 상황에서의 다양한 의사소통 연구
-* 발표자 : Y.K.Lee 
+#### 선형 혼합효과 모형
+* 발표자 : 박희영 
 * 자료 :
 * 요약 :
 
