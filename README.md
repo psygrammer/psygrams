@@ -40,7 +40,7 @@
 || <center>세션 C</center> ||
 |   | <a href="https://psygrammer.github.io/psygrams/#선형-혼합효과-모형" onclick="ga('send', 'event', 'InLink', 'Title Click', '선형 혼합효과 모형');">선형 혼합효과 모형</a> | 박희영  |
 |   | <a href="https://psygrammer.github.io/psygrams/#word2vec을-활용한-야매추천시스템" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Word2Vec을 활용한 야매추천시스템');">Word2Vec을 활용한 야매추천시스템 (논문 키워드로 관련 연구자추천) feat. 슬랙</a>   | 김성근 |   
-|   | <a href="https://psygrammer.github.io/psygrams/#대학원-Q--A--5분---네트워킹--Coffee-Break" onclick="ga('send', 'event', 'InLink', 'Title Click', '대학원 Q&A (5분), 네트워킹 (Coffee Break)');">대학원 Q&A (5분), 네트워킹 (Coffee Break)</a> | 박희영  |
+|   | 대학원 Q&A (5분), 네트워킹 (Coffee Break) | 박희영  |
 || <center>세션 D</center> ||
 |   | (큰 주제만 정해짐) <a href="https://psygrammer.github.io/psygrams/#정신의학과-뇌과학" onclick="ga('send', 'event', 'InLink', 'Title Click', '정신의학과 뇌과학');">정신의학과 뇌과학</a> | 이태영  |
 |   | <a href="https://psygrammer.github.io/psygrams/#research-on-learning--memory-with-neuromodulation-in-clmn-lab" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Research on Learning & Memory with Neuromodulation in CLMN lab');">Research on Learning & Memory with Neuromodulation in CLMN lab</a> | 김성신  |
@@ -59,17 +59,15 @@
 
 ### 세션 A
 
-#### PsychoPy 101 : 파이썬으로 구현하는 Cognitive Tasks
-* 발표자 : Y.K.Lee 
-* 자료 :
-* 요약 :
-
-
 #### 자연어처리 시작하기
 * 발표자 : 박조은
 * 자료 :
 * 요약 :
 
+#### PsychoPy 101 : 파이썬으로 구현하는 Cognitive Tasks
+* 발표자 : Y.K.Lee 
+* 자료 :
+* 요약 :
 
 #### DMLab-30 : 딥마인드의 AI 길들이기
 * 발표자 : 김무성
@@ -80,15 +78,21 @@
 
 ### 세션 B
 
-#### 선형 혼합효과 모형
-* 발표자 : 박희영 
-* 자료 :
-* 요약 :
-
-#### 정서심리학과 인지계산모델
+#### 엎치락뒤치락 정서심리
 * 발표자 : 박희영
 * 자료 :
 * 요약 :
+
+#### 기억, 의사결정, 그리고 인지신경심리학
+* 발표자 : 유정선
+* 자료 :
+* 요약 :
+
+#### Deep learning framework 선택을 위한 model benchmark test 방법
+* 발표자 : 김형준
+* 자료 :
+* 요약 :
+
 
 #### 심리학도 UX리서처의 관점으로 머신러닝 바라보기 
 * 발표자 : 신유민
@@ -99,25 +103,22 @@
 
 ### 세션 C
 
+#### 선형 혼합효과 모형
+* 발표자 : 박희영 
+* 자료 :
+* 요약 :
+
 #### Word2Vec을 활용한 야매추천시스템 
 * 부제 : 논문 키워드로 관련 연구자추천 feat. 슬랙
 * 발표자 : 김성근
 * 자료 :
 * 요약 :
 
-#### Deep learning framework 선택을 위한 model benchmark test 방법
-* 발표자 : 김형준
-* 자료 :
-* 요약 :
 
 --------------
 
 ### 세션 D
 
-#### 기억, 의사결정, 그리고 인지신경심리학
-* 발표자 : 유정선
-* 자료 :
-* 요약 :
 
 #### 정신의학과 뇌과학 
 * 발표자 : 이태영
@@ -126,6 +127,11 @@
 
 #### Research on Learning & Memory with Neuromodulation in CLMN lab
 * 발표자 : 김성신
+* 자료 :
+* 요약 :
+
+### 뇌과학과 야구, 그리고 통계
+* 발표자 : 송민구
 * 자료 :
 * 요약 :
 
@@ -141,5 +147,10 @@
 #### 인지심리학도의 이곳저곳 직장에서 살아가기 
 * 부제 : 데이터 분석가 직무 아닌 사람의 소소한 데이터 사용기 포함
 * 발표자 : 최준혁
+* 자료 :
+* 요약 :
+
+#### 심리상담과 IT
+* 발표자 : 김태욱
 * 자료 :
 * 요약 :
