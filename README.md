@@ -44,11 +44,11 @@
 || <center>세션 D</center> ||
 |   | (큰 주제만 정해짐) <a href="https://psygrammer.github.io/psygrams/#정신의학과-뇌과학" onclick="ga('send', 'event', 'InLink', 'Title Click', '정신의학과 뇌과학');">정신의학과 뇌과학</a> | 이태영  |
 |   | <a href="https://psygrammer.github.io/psygrams/#research-on-learning--memory-with-neuromodulation-in-clmn-lab" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Research on Learning & Memory with Neuromodulation in CLMN lab');">Research on Learning & Memory with Neuromodulation in CLMN lab</a> | 김성신  |
-|   | <a href="https://psygrammer.github.io/psygrams/#뇌과학과-야구--그리고-통계" onclick="ga('send', 'event', 'InLink', 'Title Click', '뇌과학과 야구, 그리고 통계 ');">뇌과학과 야구, 그리고 통계 </a> | 송민구  |
+|   | <a href="https://psygrammer.github.io/psygrams/#뇌과학과-야구-그리고-통계" onclick="ga('send', 'event', 'InLink', 'Title Click', '뇌과학과 야구, 그리고 통계 ');">뇌과학과 야구, 그리고 통계 </a> | 송민구  |
 || <center>세션 E</center> ||
 |   | <a href="https://psygrammer.github.io/psygrams/#비컴공-데이터분석가-커리어-여정" onclick="ga('send', 'event', 'InLink', 'Title Click', '비컴공 데이터분석가 커리어 여정');">비컴공 데이터분석가 커리어 여정</a> | 조선주  |
 |   | <a href="https://psygrammer.github.io/psygrams/#인지심리학도의-이곳저곳-직장에서-살아가기" onclick="ga('send', 'event', 'InLink', 'Title Click', '인지심리학도의 이곳저곳 직장에서 살아가기');">인지심리학도의 이곳저곳 직장에서 살아가기 (데이터 분석가 직무 아닌 사람의 소소한 데이터 사용기 포함)</a> | 최준혁  |
-|   | <a href="https://psygrammer.github.io/psygrams/#심리상담과-IT" onclick="ga('send', 'event', 'InLink', 'Title Click', '심리상담과 IT');">심리상담과 IT</a> | 김태욱  |
+|   | <a href="https://psygrammer.github.io/psygrams/#심리상담과-it" onclick="ga('send', 'event', 'InLink', 'Title Click', '심리상담과 IT');">심리상담과 IT</a> | 김태욱  |
 
 
 
@@ -130,7 +130,7 @@
 * 자료 :
 * 요약 :
 
-### 뇌과학과 야구, 그리고 통계
+#### 뇌과학과 야구, 그리고 통계
 * 발표자 : 송민구
 * 자료 :
 * 요약 :
