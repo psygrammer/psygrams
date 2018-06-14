@@ -1,6 +1,6 @@
 # Psygrams 2018
 
-정통 .. 심리학 컨퍼런스<br> 
+<a href="https://www.facebook.com/groups/psygrammer" onclick="ga('send', 'event', 'OutLink', 'Facebook Click', 'Psygrammer Facebook');">싸이그래머</a>의 정통 .. 심리학 컨퍼런스<br><br> 
 <b>참가 신청</b> -> 
 <a href="https://www.facebook.com/events/590394521317191/" onclick="ga('send', 'event', 'OutLink', 'Facebook Click', 'Facebook Event - Psygrams 2018');">페이스북 이벤트 링크</a>의 이벤트에서 '참석'을 눌러주세요.<br>
 ('관심 있음'은 참석명단에 포함되지 않습니다)
