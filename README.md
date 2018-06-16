@@ -43,7 +43,6 @@
 |   | <a href="https://psygrammer.github.io/psygrams/#word2vec을-활용한-야매추천시스템" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Word2Vec을 활용한 야매추천시스템');">Word2Vec을 활용한 야매추천시스템 (논문 키워드로 관련 연구자추천) feat. 슬랙</a>   | 김성근 |   
 |   | 대학원 Q&A (5분), 네트워킹 (Coffee Break) | 박희영  |
 || <center>세션 D</center> ||
-|   | (큰 주제만 정해짐) <a href="https://psygrammer.github.io/psygrams/#정신의학과-뇌과학" onclick="ga('send', 'event', 'InLink', 'Title Click', '정신의학과 뇌과학');">정신의학과 뇌과학</a> | 이태영  |
 |   | <a href="https://psygrammer.github.io/psygrams/#research-on-learning--memory-with-neuromodulation-in-clmn-lab" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Research on Learning & Memory with Neuromodulation in CLMN lab');">Research on Learning & Memory with Neuromodulation in CLMN lab</a> | 김성신  |
 |   | <a href="https://psygrammer.github.io/psygrams/#뇌과학과-야구-그리고-통계" onclick="ga('send', 'event', 'InLink', 'Title Click', '뇌과학과 야구, 그리고 통계 ');">뇌과학과 야구, 그리고 통계 </a> | 송민구  |
 || <center>세션 E</center> ||
@@ -120,11 +119,6 @@
 
 ### 세션 D
 
-
-#### 정신의학과 뇌과학 
-* 발표자 : 이태영
-* 자료 :
-* 요약 :
 
 #### Research on Learning & Memory with Neuromodulation in CLMN lab
 * 발표자 : 김성신
