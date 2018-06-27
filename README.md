@@ -61,8 +61,8 @@
 
 #### 자연어처리 시작하기
 * 발표자 : 박조은
-* 자료 :
-* 요약 :
+* 자료 : 
+* 요약 : 
 
 #### PsychoPy 101 : 파이썬으로 구현하는 Cognitive Tasks
 * 발표자 : Y.K.Lee 
@@ -90,9 +90,10 @@
 
 #### Deep learning framework 선택을 위한 model benchmark test 방법
 * 발표자 : 김형준
-* 자료 :
-* 요약 :
-
+* 자료 :[발표자료](presentations/hjk_dl_benchmark.pdf)
+* 요약 : 딥러닝 프레임웍인 mxnet 및 tensorflow 비교. </br> 
+  - MLP, CNN, LSTM
+  - CPU, GPU
 
 #### 심리학도 UX리서처의 관점으로 머신러닝 바라보기 
 * 발표자 : 신유민
