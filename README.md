@@ -38,7 +38,7 @@
 | 3:10 - 3:30  | <a href="https://psygrammer.github.io/psygrams/#word2vec을-활용한-야매추천시스템" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Word2Vec을 활용한 야매추천시스템');">Word2Vec을 활용한 야매추천시스템 (논문 키워드로 관련 연구자추천) feat. 슬랙</a>   | 김성근 |   
 | 3:30 - 3:35 | <center><B>Break(5분)</B></center> ||
 | 3:35 - 3:55  | <a href="https://psygrammer.github.io/psygrams/#심리학도-ux리서처의-관점으로-머신러닝-바라보기" onclick="ga('send', 'event', 'InLink', 'Title Click', '심리학도 UX리서처의 관점으로 머신러닝 바라보기');">심리학도 UX리서처의 관점으로 머신러닝 바라보기</a> | 신유민  |
-| 3:55 - 4:15  | <a href="https://psygrammer.github.io/psygrams/#기억의-인지신경과학-연결성을-중심으로" onclick="ga('send', 'event', 'InLink', 'Title Click', '기억의 인지신경과학 - 연결성을 중심으로');">기억의 인지신경과학 - 연결성을 중심으로</a> | 유정선  |
+| 3:55 - 4:15  | <a href="https://psygrammer.github.io/psygrams/#기억의-인지신경과학---연결성을-중심으로" onclick="ga('send', 'event', 'InLink', 'Title Click', '기억의 인지신경과학 - 연결성을 중심으로');">기억의 인지신경과학 - 연결성을 중심으로</a> | 유정선  |
 | 4:15 - 4:35  | <a href="https://psygrammer.github.io/psygrams/#엎치락뒤치락-정서심리" onclick="ga('send', 'event', 'InLink', 'Title Click', '엎치락뒤치락 정서심리');">엎치락뒤치락 정서심리</a> | 박희영  |
 | 4:35 - 4:45 | <center><B>Q&A Session(10분)</B></center> |Y.K.Lee<br>박희영|
 | 4:45 - 5:05  | <a href="https://psygrammer.github.io/psygrams/#인지심리학도의-이곳저곳-직장에서-살아가기" onclick="ga('send', 'event', 'InLink', 'Title Click', '인지심리학도의 이곳저곳 직장에서 살아가기');">인지심리학도의 이곳저곳 직장에서 살아가기 (데이터 분석가 직무 아닌 사람의 소소한 데이터 사용기 포함)</a> | 최준혁  |
