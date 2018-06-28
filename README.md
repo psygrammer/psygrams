@@ -54,8 +54,8 @@
 
 #### Deep learning framework 선택을 위한 model benchmark test 방법
 * 발표자 : 김형준
-* 자료 : [발표자료](presentations/hjk_dl_benchmark.pdf)
-* 요약 : 딥러닝 프레임웍인 mxnet 및 tensorflow 비교. </br> 
+* 자료 : <a onclick="ga('send', 'event', 'OutLink', 'Slide Click', '딥러닝 프레임웍인 mxnet 및 tensorflow 비교');">[발표자료](presentations/hjk_dl_benchmark.pdf)</a>
+* 요약 : 딥러닝 프레임웍인 mxnet 및 tensorflow 비교.  
   - MLP, CNN, LSTM
   - CPU, GPU
   
