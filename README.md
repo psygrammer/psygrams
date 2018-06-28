@@ -54,14 +54,14 @@
 
 #### Deep learning framework 선택을 위한 model benchmark test 방법
 * 발표자 : 김형준
-* 자료 :[발표자료](presentations/hjk_dl_benchmark.pdf)
+* 자료 : [발표자료](presentations/hjk_dl_benchmark.pdf)
 * 요약 : 딥러닝 프레임웍인 mxnet 및 tensorflow 비교. </br> 
   - MLP, CNN, LSTM
   - CPU, GPU
   
 #### Research on Learning & Memory with Neuromodulation in CLMN lab
 * 발표자 : 김성신
-* 자료 :
+* 자료 : [발표자료](presentations/ksh_brain_and_computation.pdf)
 * 요약 :
 
 #### 뇌과학과 야구, 그리고 통계
@@ -91,7 +91,7 @@
 #### Word2Vec을 활용한 야매추천시스템 
 * 부제 : 논문 키워드로 관련 연구자추천 feat. 슬랙
 * 발표자 : 김성근
-* 자료 :
+* 자료 : 
 * 요약 :
 
 
