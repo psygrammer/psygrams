@@ -61,7 +61,7 @@
   
 #### Research on Learning & Memory with Neuromodulation in CLMN lab
 * 발표자 : 김성신
-* 자료 : [발표자료](presentations/ksh_brain_and_computation.pdf)
+* 자료 : [발표자료](presentations/ksh_memory_in_clmn_lab.pdf)
 * 요약 :
 
 #### 뇌과학과 야구, 그리고 통계
@@ -91,7 +91,7 @@
 #### Word2Vec을 활용한 야매추천시스템 
 * 부제 : 논문 키워드로 관련 연구자추천 feat. 슬랙
 * 발표자 : 김성근
-* 자료 : 
+* 자료 : [발표자료](presentations/ksg_word2vec_recom.pdf)
 * 요약 :
 
 
@@ -106,7 +106,7 @@
 
 #### 기억의 인지신경과학 - 연결성을 중심으로
 * 발표자 : 유정선
-* 자료 :
+* 자료 : [발표자료](presentations/yjs_memory_con.pdf)
 * 요약 :
 
 #### 엎치락뒤치락 정서심리
@@ -122,12 +122,12 @@
 #### 인지심리학도의 이곳저곳 직장에서 살아가기 
 * 부제 : 데이터 분석가 직무 아닌 사람의 소소한 데이터 사용기 포함
 * 발표자 : 최준혁
-* 자료 :
+* 자료 : [발표자료](presentations/cjh_cog_live.pdf)
 * 요약 :
 
 #### 심리학 관점의 데이터분석 실무 환경
 * 발표자 : 조선주
-* 자료 :
+* 자료 : [발표자료](presentations/jsj_psy_da_real.pdf)
 * 요약 :
 
 #### 심리상담과 IT
