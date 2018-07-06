@@ -30,7 +30,7 @@
 | 1:25 - 1:45  | <a href="https://psygrammer.github.io/psygrams/#research-on-learning--memory-with-neuromodulation-in-clmn-lab" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Research on Learning & Memory with Neuromodulation in CLMN lab');">Research on Learning & Memory with Neuromodulation in CLMN lab</a> | 김성신  |
 | 1:45 - 2:05  | <a href="https://psygrammer.github.io/psygrams/#뇌과학과-야구-그리고-통계" onclick="ga('send', 'event', 'InLink', 'Title Click', '뇌과학과 야구, 그리고 통계 ');">뇌과학과 야구, 그리고 통계 </a> | 송민구  |
 | 2:05 - 2:10 | <center><B>Break(5분)</B></center> ||
-| 2:10 - 2:30 | <a href="https://psygrammer.github.io/psygrams/#자연어처리-시작하기" onclick="ga('send', 'event', 'InLink', 'Title Click', '자연어처리 시작하기');">자연어처리 시작하기</a> | 박조은   |
+| 2:10 - 2:30 | <a href="https://psygrammer.github.io/psygrams/#텍스트-데이터-전처리로-시작하는-NLP" onclick="ga('send', 'event', 'InLink', 'Title Click', '텍스트 데이터 전처리로 시작하는 NLP');">텍스트 데이터 전처리로 시작하는 NLP</a> | 박조은   |
 | 2:30 - 2:50 | <a href="https://psygrammer.github.io/psygrams/#psychopy-101--파이썬으로-구현하는-cognitive-tasks" onclick="ga('send', 'event', 'InLink', 'Title Click', 'PsychoPy 101 : 파이썬으로 구현하는 Cognitive Tasks');">PsychoPy 101 : 파이썬으로 구현하는 Cognitive Tasks</a> | Y.K.Lee   |
 | 2:50 - 3:10 | <a href="https://psygrammer.github.io/psygrams/#dmlab-30--딥마인드의-ai-길들이기" onclick="ga('send', 'event', 'InLink', 'Title Click', 'DMLab-30 : 딥마인드의 AI 길들이기');">DMLab-30 : 딥마인드의 AI 길들이기</a> | 김무성  |
 | 3:10 - 3:30  | <a href="https://psygrammer.github.io/psygrams/#word2vec을-활용한-야매추천시스템" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Word2Vec을 활용한 야매추천시스템');">Word2Vec을 활용한 야매추천시스템 (논문 키워드로 관련 연구자추천) feat. 슬랙</a>   | 김성근 |   
@@ -74,10 +74,10 @@
 
 ### 세션 2
 
-#### 자연어처리 시작하기
+#### 텍스트 데이터 전처리로 시작하는 NLP
 * 발표자 : 박조은
-* 자료 : 
-* 요약 : 
+* 자료 : <a href="https://psygrammer.github.io/psygrams/presentations/pje_nlp_text_preprocessing.pdf" onclick="ga('send', 'event', 'OutLink', 'Slide Click', 'NLP text preprocessing');">발표자료</a>
+* 요약 : NLP 입문자를 위해 텍스트 데이터 전처리, 벡터화, 시각화에 대해 간략하게 소개합니다. 
 
 #### PsychoPy 101 : 파이썬으로 구현하는 Cognitive Tasks
 * 발표자 : Y.K.Lee 
